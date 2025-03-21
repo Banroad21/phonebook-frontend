@@ -1,5 +1,5 @@
 **IMPORTANT**
-1. This project uses Tailwind CSS as CSS framework, make sure to visit Tailwind CSS documentation
+1. This project uses **React Redux** for state management and **Tailwind CSS** as CSS framework, make sure to visit Tailwind CSS documentation
 2. Run npm install before running npm start
 
 # Getting Started with Create React App
