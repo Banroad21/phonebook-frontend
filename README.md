@@ -1,6 +1,7 @@
 **IMPORTANT**
 1. This project uses **React Redux** for state management and **Tailwind CSS** as CSS framework, make sure to visit Tailwind CSS documentation
-2. Run npm install before running npm start
+2. Run **npm install** before running **npm start**
+3. Make sure you clone **phonebook-backend** as well since that is the server for this project.
 
 # Getting Started with Create React App
 
