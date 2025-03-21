@@ -1,3 +1,7 @@
+**IMPORTANT**
+1. This project uses Tailwind CSS as CSS framework, make sure to visit Tailwind CSS documentation
+2. Run npm install before running npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
